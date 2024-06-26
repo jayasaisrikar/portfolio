@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import { Tabs } from "./ui/sticky-scroll-reveal";
+import { Tabs } from "@/components/ui/sticky-scroll-reveal";
 
 
 export function Projects() {

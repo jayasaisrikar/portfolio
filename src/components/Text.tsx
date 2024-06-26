@@ -7,7 +7,7 @@ export function Text() {
   return (
     <div className="h-[40rem] flex justify-center items-center px-4 bg-black">
       <div className="text-4xl mx-auto font-normal text-white dark:text-neutral-400">
-        I'm a
+        I&apos;m a
         <FlipWords words={words} /> <br />
         and many more...
       </div>
