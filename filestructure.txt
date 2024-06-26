@@ -1,0 +1,60 @@
+.
+|-- .eslintrc.json
+|-- .gitignore
+|-- .next/
+|-- next-env.d.ts
+|-- next.config.mjs
+|-- node_modules/
+|-- noise.webp
+|-- package-lock.json
+|-- package.json
+|-- pages/
+|   |-- Projects.tsx
+|   |-- Projects1.jsx
+|   +-- ui/
+|       |-- sticky-scroll-reveal.tsx
+|-- postcss.config.mjs
+|-- public/
+|   |-- next.svg
+|   |-- vercel.svg
+|   +-- assets/
+|       +-- img/
+|           |-- blog.png
+|           |-- festlogo.png
+|           |-- github.png
+|           |-- hero.gif
+|           |-- hero.png
+|           |-- invoice.png
+|           |-- ityukta.png
+|           |-- ityukta1.png
+|           |-- nlqa.png
+|           |-- noise.webp
+|           +-- resu.png
+|-- README.md
+|-- src/
+|   |-- noise.webp
+|   +-- app/
+|       |-- favicon.ico
+|       |-- globals.css
+|       |-- layout.tsx
+|       +-- page.tsx
+|       +-- components/
+|           |-- Bento.tsx
+|           |-- Footer.jsx
+|           |-- Hero.tsx
+|           |-- Navbar.tsx
+|           |-- Projects.tsx
+|           |-- Text.tsx
+|           +-- Wobble.tsx
+|           +-- ui/
+|               |-- bento-grid.tsx
+|               |-- hero-highlight.tsx
+|               |-- navbar-menu.tsx
+|               |-- sticky-scroll-reveal.tsx
+|               |-- text-generate-effect.tsx
+|               |-- vanta.waves.min.js
+|               +-- wobble-card.tsx
++-- utils/
+    +-- cn.ts
+|-- tailwind.config.ts
+|-- tsconfig.json
