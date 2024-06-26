@@ -27,8 +27,8 @@ function Navbar({ className }: { className?: string }) {
                 <HoveredLink href="/branding">Blog</HoveredLink>
               </div>
             </MenuItem>
-            <MenuItem setActive={setActive} active={active} item="Live Projects">
-              <div className="text-sm grid grid-cols-2 gap-10 p-4">
+            <MenuItem setActive={setActive} active={active} item="LiveProjects">
+              <div className="text-sm grid grid-cols-1 gap-10 p-4">
                 <ProductItem
                   title="ITYUKTA 2K24"
                   description="ITYUKTA 2K24 A Two Day National Level Technical Symposium - Official Website"
