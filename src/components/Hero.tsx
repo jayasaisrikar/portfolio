@@ -9,7 +9,7 @@ export function Hero() {
         className="-top-40 left-0 md:left-60 md:-top-20"
         fill="white"
       />
-      <div className=" p-4 max-w-7xl  mx-auto relative z-10  w-full pt-20 md:pt-100">
+      <div className="p-5 max-w-7xl mx-auto relative z-20 top-100 w-full" style={{ paddingTop: '10rem' }}>
         <h1 className="text-4xl md:text-7xl font-bold text-center bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 bg-opacity-50">
           Hello There! <br /> I&apos;m Jaya Sai Srikar.
         </h1>

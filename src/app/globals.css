@@ -44,3 +44,23 @@ body {
 .no-visible-scrollbar::-webkit-scrollbar {
   display: none;
 }
+
+/* Custom styles if needed */
+.shadow-input {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 1024px) {
+  .lg\:hidden {
+    display: none;
+  }
+
+  .lg\:block {
+    display: block;
+  }
+
+  .lg\:flex {
+    display: flex;
+  }
+}
+
