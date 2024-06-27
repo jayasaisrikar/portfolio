@@ -12,7 +12,7 @@ export function Github() {
             <h1 className="text-4xl font-semibold text-white dark:text-white">
               For more projects or references reach out <br />
               <span className="text-4xl md:text-[6rem] font-bold mt-1 leading-none">
-                To My <a href="https://github.com/jayasaisrikar" target="_blank">Github</a>
+                To My <a href="https://github.com/jayasaisrikar" target="_blank" style={{color:'purple'}}>Github</a>
               </span>
             </h1>
           </>
