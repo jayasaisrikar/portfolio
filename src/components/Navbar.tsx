@@ -24,7 +24,7 @@ function Navbar({ className }: { className?: string }) {
                 <HoveredLink href="/layout">My Projects</HoveredLink>
                 <HoveredLink href="/seo">Achievements</HoveredLink>
                 <HoveredLink href="/gitlayout">My Github</HoveredLink>
-                <HoveredLink href="/branding">Blog</HoveredLink>
+                <HoveredLink href="https://jayasaisrikar.netlify.app">Blog</HoveredLink>
               </div>
             </MenuItem>
             <MenuItem setActive={setActive} active={active} item="LiveProjects">
